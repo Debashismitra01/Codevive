@@ -24,7 +24,7 @@ export default function Features(){
   </ul>
 </div>
 <div className="section">
-  <h2>Who’s It For? 💻</h2>
+  <h2>Who is It For? 💻</h2>
   <ul>
     <li><strong>Developers:</strong> Crafted with tools and features you’ll love.</li>
     <li><strong>Designers:</strong> A sleek UI and customizable setup for your creative needs.</li>
